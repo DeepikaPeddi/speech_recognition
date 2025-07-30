@@ -16,3 +16,6 @@
 
 ## Overall, this project familiarized me with the basics of speech processing and taught me how to implement AI tools in real-world voice interaction. I now understand the pipeline of converting audio signals into machine-readable formats and how to use APIs to achieve high-accuracy speech recognition. The final notebook (speech_to_text.ipynb) and the sample audio file (harvard.wav) are included in this repository. This task served as a strong foundation for future projects in AI audio analysis, and I’m excited to explore more advanced audio-based AI solutions going forward.
 
+# output
+
+<img width="1862" height="683" alt="Image" src="https://github.com/user-attachments/assets/f4808496-fc53-4a6c-af6a-35d71ea82c75" />
