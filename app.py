@@ -16,7 +16,7 @@ interface = gr.Interface(
     inputs=gr.Audio(type="filepath", label="Upload a short WAV audio"),
     outputs="text",
     title="Speech-to-Text with Wav2Vec2",
-    description="Upload a short audio clip (.wav) to convert it into text."
+    description="For best performance, upload .wav audio clips under 30 seconds."
 )
 
 interface.launch()   
